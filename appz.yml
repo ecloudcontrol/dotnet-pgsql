@@ -1,6 +1,6 @@
 app:
-    name: Postgres Dotnet Core
-    code: POSTGRESDOTNETCORE
+    name: Dotnet PgSql
+    code: DOTNETPGSQL
     notify: skumar@ecloudcontrol.com
     
 build:
